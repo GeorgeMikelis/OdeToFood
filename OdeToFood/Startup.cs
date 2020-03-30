@@ -44,15 +44,8 @@ namespace OdeToFood
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles(new StaticFileOptions
-            {
-                OnPrepareResponse = ctx =>
-                {
-                    const int durationInSeconds = -1;
-                    ctx.Context.Response.Headers[HeaderNames.CacheControl] =
-                        "public,max-age=" + durationInSeconds;
-                }
-            });
+            app.UseStaticFiles();
+
             app.UseRouting();
 
             app.UseAuthorization();
