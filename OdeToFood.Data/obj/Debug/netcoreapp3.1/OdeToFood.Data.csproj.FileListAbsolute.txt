@@ -1,4 +1,6 @@
 D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.deps.json
+D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.json
+D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.dev.json
 D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
 D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
 D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
@@ -10,3 +12,4 @@ D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\
 D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
 D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
 D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+D:\Programming etc\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.genruntimeconfig.cache
