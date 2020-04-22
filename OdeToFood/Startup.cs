@@ -52,6 +52,7 @@ namespace OdeToFood
             }
 
             app.UseHttpsRedirection();
+
             app.UseStaticFiles(new StaticFileOptions
             {
                 OnPrepareResponse = ctx =>
@@ -61,6 +62,8 @@ namespace OdeToFood
                         "public,max-age=" + durationInSeconds;
                 }
             });
+
+            app.UseNodeModules();
 
             app.UseRouting();
 
